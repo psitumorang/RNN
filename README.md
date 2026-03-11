@@ -1,0 +1,3 @@
+# RNN
+
+This  In this project we seek to explore and evaluate the predictive value of historical truck crash experience in states and counties to forecast future crashes. Time series forecasting seeks to extract patterns such as seasonality and trend to arrive at a function that describes the relationship of crashes between time periods (week-to-week, month-to-month). The objective of this project is to gauge the strength of such pattern using the frequency of crashes as both the predictive and target variables, to determine the viability of investing in a CI/CD ML system that continuously extract the predictive value that can be derived from such time-series patterns.
